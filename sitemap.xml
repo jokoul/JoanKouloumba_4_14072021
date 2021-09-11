@@ -8,14 +8,24 @@
 
 
 <url>
-  <loc>https://jokoul.github.io/TP4_-SEO_accessibility/index.html</loc>
-  <lastmod>2021-09-08T11:09:58+00:00</lastmod>
+  <loc>https://jokoul.github.io/JoanKouloumba_4_14072021/indexmin.html</loc>
+  <lastmod>2021-09-10T19:11:01+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://jokoul.github.io/TP4_-SEO_accessibility/contact.html</loc>
-  <lastmod>2021-09-08T11:09:57+00:00</lastmod>
+  <loc>https://jokoul.github.io/JoanKouloumba_4_14072021/index.html</loc>
+  <lastmod>2021-09-10T19:11:01+00:00</lastmod>
   <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jokoul.github.io/JoanKouloumba_4_14072021/contactmin.html</loc>
+  <lastmod>2021-09-10T19:11:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jokoul.github.io/JoanKouloumba_4_14072021/contact.html</loc>
+  <lastmod>2021-09-10T19:11:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 
 
