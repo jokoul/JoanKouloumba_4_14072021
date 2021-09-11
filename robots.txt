@@ -22,7 +22,8 @@ Disallow : /contact.html
 
 #rule 4
 User-agent : *
-Disallow : /docs
+Disallow : /0_doc
+Disallow : /archive
 
 #Sitemap
 Sitemap : https://jokoul.github.io/TP4_-SEO_accessibility/sitemap.xml
