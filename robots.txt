@@ -17,13 +17,7 @@ Disallow : /js/jquery.touchSwipe.js
 
 #rule 3
 User-agent : *
-Disallow : /index.html
-Disallow : /contact.html
-
-#rule 4
-User-agent : *
 Disallow : /0_doc
-Disallow : /archive
 
 #Sitemap
 Sitemap : https://jokoul.github.io/TP4_-SEO_accessibility/sitemap.xml
