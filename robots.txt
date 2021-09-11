@@ -20,4 +20,4 @@ User-agent : *
 Disallow : /0_doc
 
 #Sitemap
-Sitemap : https://jokoul.github.io/TP4_-SEO_accessibility/sitemap.xml
+Sitemap : https://github.com/jokoul/JoanKouloumba_4_14072021/blob/main/sitemap.xml
