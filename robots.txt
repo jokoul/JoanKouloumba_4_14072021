@@ -19,5 +19,9 @@ Disallow : /js/jquery.touchSwipe.js
 User-agent : *
 Disallow : /0_doc
 
+#rule 4
+User-agent : *
+Disallow : /README.md
+
 #Sitemap
 Sitemap : https://github.com/jokoul/JoanKouloumba_4_14072021/blob/main/sitemap.xml
