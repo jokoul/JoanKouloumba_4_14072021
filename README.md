@@ -1,4 +1,4 @@
-# JoanKouloumba_4_14072021
+# Projet 4 : Optimiser un site web existant avec des outils de référencement SEO
 
 OBJECTIF DU PROJET : Amélioration du référencement d'un site existant (Projet 4 parcours développeur web chez OCR) 
 
